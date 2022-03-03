@@ -2,4 +2,6 @@ some text
 to test
 the github
 
+some line
+
 in another branch
